@@ -1,5 +1,8 @@
 body {
   font-family: futura, 'century gothic', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+  letter-spacing: 1px;
 }
 h1, h2 { display: none; }
 img {
@@ -15,5 +18,5 @@ img {
   height: 42px;
   top: 50%;
   left: 50%;
-  margin: -16px 0 0 -160px;
+  margin: -32px 0 0 -160px;
 }
