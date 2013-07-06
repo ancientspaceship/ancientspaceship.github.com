@@ -1,6 +1,8 @@
-auto: true
-server: true
-artist_name: "Ancient Spaceship"
-artist_email: "hello@ancientspaceship.com"
-artist_bio: "NYC Prodcution Company"
-
+name: "Ancient Spaceship"
+email: "hello@ancientspaceship.com"
+bio: "a creative collective bringing you otherworldly digital content."
+videos:
+- url: http://vimeo.com/63262002
+  title: The End
+- url: http://vimeo.com/63262002
+  title: The End
